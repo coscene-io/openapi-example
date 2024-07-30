@@ -1,0 +1,4 @@
+# --extra-index-url https://buf.build/gen/python
+coscene_io_coscene_openapi_community_nipunn1313_mypy
+coscene_io_coscene_openapi_community_nipunn1313_mypy_grpc
+coscene_io_coscene_openapi_grpc_python
