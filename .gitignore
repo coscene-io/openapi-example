@@ -1,0 +1,6 @@
+.idea/
+venv/
+.gradle/
+**/build/
+**/.licenserc.yaml
+
